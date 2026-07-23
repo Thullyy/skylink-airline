@@ -17,6 +17,13 @@ SkyLink Airline was designed to implement a reliable relational database that st
 - Oracle SQL
 - SQL Developer
 
+## My contributions
+- Collaborated on implementing the Oracle database and establishing database connectivity.
+- Developed SQL statements to support record creation, updating and deletion.
+- Assisted in creating database views and additional SQL functionality.
+- Contributed to the project's technical documentation.
+- Collaborated with the team on ERD design, normalization and database implementation.
+
 ## How to Run
 1. Open SQL Developer.
 2. Connect to an Oracle database.
